@@ -9,7 +9,7 @@ Description
 For Epicodus Intro to Programming class.
 
 Setup
-Go to https://github.com/cehoughton/Ping
+Go to https://cehoughton.github.io/Ping
 
 
 Technologies Used
